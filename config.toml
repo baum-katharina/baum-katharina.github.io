@@ -1,0 +1,22 @@
+baseURL = 'https://alehrn.github.io/katharinabaum/'
+languageCode = 'en-us'
+title = 'Home'
+theme = 'ananke'
+
+publishDir = "docs"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [[menu.main]]
+    name = "Research"
+    url  = "/research/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Teaching"
+    url  = "/teaching/"
+    weight = 3
