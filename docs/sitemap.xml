@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alehrn.github.io/katharinabaum/about/</loc>
+    <loc>http://localhost:1313/katharinabaum/about/</loc>
     <lastmod>2025-01-14T13:36:59+01:00</lastmod>
   </url><url>
-    <loc>https://alehrn.github.io/katharinabaum/</loc>
+    <loc>http://localhost:1313/katharinabaum/</loc>
     <lastmod>2025-01-14T13:36:59+01:00</lastmod>
   </url><url>
-    <loc>https://alehrn.github.io/katharinabaum/research/</loc>
+    <loc>http://localhost:1313/katharinabaum/research/</loc>
     <lastmod>2025-01-14T13:36:59+01:00</lastmod>
   </url><url>
-    <loc>https://alehrn.github.io/katharinabaum/teaching/</loc>
+    <loc>http://localhost:1313/katharinabaum/teaching/</loc>
     <lastmod>2025-01-14T13:36:59+01:00</lastmod>
   </url><url>
-    <loc>https://alehrn.github.io/katharinabaum/categories/</loc>
+    <loc>http://localhost:1313/katharinabaum/categories/</loc>
   </url><url>
-    <loc>https://alehrn.github.io/katharinabaum/tags/</loc>
+    <loc>http://localhost:1313/katharinabaum/tags/</loc>
   </url>
 </urlset>
