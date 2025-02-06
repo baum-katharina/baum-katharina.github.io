@@ -1,4 +1,4 @@
-baseURL = "https://baum-katharina.github.io/"
+baseURL = "https://baum-katharina.github.io"
 languageCode = 'en-us'
 title = 'Home'
 theme = 'ananke'
